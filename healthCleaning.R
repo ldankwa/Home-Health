@@ -19,7 +19,7 @@ library(tidyverse)
 library(mice)
 
 
-#  Loading in the data obtained from data.gov
+#  Loading in the raw data obtained from Healthdata.gov
 
 
 health <- read.csv("home_health.csv")
